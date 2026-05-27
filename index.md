@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Fudan Supercomputing Team"
   text: "FDUSC Homepage"
-  tagline: My great project tagline
+  tagline: Unlocking the 'Fulops'
   actions:
     - theme: brand
       text: Markdown Examples
