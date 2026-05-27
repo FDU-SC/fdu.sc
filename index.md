@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Fudan Supercomputing Team"
-  text: "FDUSC Homepage"
+  text: "复旦大学 FDUSC 超算队"
   tagline: Unlocking the 'Fulops'
   image:
     src: /fdusc-icon.svg

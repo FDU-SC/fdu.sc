@@ -4,10 +4,13 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Fudan Supercomputing Team",
   description: "FDUSC",
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: {
-      src: '/fdusc-icon.svg',
+      src: '/fudan-seal-x-fdusc.svg',
       alt: 'FDUSC logo'
     },
 
