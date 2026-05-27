@@ -10,7 +10,8 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: {
-      src: '/fudan-seal-x-fdusc.svg',
+      light: '/fudan-seal-x-fdusc.svg',
+      dark: '/fudan-seal-x-fdusc-dark.svg',
       alt: 'FDUSC logo'
     },
 
