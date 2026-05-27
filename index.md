@@ -6,6 +6,9 @@ hero:
   name: "Fudan Supercomputing Team"
   text: "FDUSC Homepage"
   tagline: Unlocking the 'Fulops'
+  image:
+    src: /fdusc-icon.svg
+    alt: FDUSC logo
   actions:
     - theme: brand
       text: Markdown Examples

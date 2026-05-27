@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84.5 80.348" role="img" aria-labelledby="title">
+  <title id="title">FDUSC icon</title>
+  <defs>
+    <linearGradient id="bar-blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#44b8da"/>
+      <stop offset="1" stop-color="#2871b1"/>
+    </linearGradient>
+    <linearGradient id="bar-magenta" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#db3577"/>
+      <stop offset="1" stop-color="#b41958"/>
+    </linearGradient>
+    <linearGradient id="bar-green" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b2dc36"/>
+      <stop offset="1" stop-color="#2b9645"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <rect width="84.5" height="24.469" rx="3.164" fill="url(#bar-blue)"/>
+    <circle cx="12.443" cy="12.234" r="4.111" fill="#fff"/>
+    <circle cx="24.154" cy="12.234" r="3.636" fill="#fff"/>
+    <rect x="58.362" y="6.169" width="17.807" height="2.302" rx="1.151" fill="#fff"/>
+    <rect x="58.362" y="11.084" width="17.807" height="2.301" rx="1.151" fill="#fff"/>
+    <rect x="58.362" y="15.997" width="17.807" height="2.301" rx="1.151" fill="#fff"/>
+  </g>
+
+  <g transform="translate(0 27.939)">
+    <rect width="84.5" height="24.47" rx="3.164" fill="url(#bar-magenta)"/>
+    <circle cx="12.443" cy="12.233" r="4.111" fill="#fff"/>
+    <circle cx="24.154" cy="12.233" r="3.636" fill="#fff"/>
+    <rect x="58.362" y="6.17" width="17.807" height="2.301" rx="1.151" fill="#fff"/>
+    <rect x="58.362" y="11.085" width="17.807" height="2.301" rx="1.151" fill="#fff"/>
+    <rect x="58.362" y="15.996" width="17.807" height="2.302" rx="1.151" fill="#fff"/>
+  </g>
+
+  <g transform="translate(0 55.876)">
+    <rect width="84.5" height="24.472" rx="3.164" fill="url(#bar-green)"/>
+    <circle cx="12.443" cy="12.897" r="4.111" fill="#fff"/>
+    <circle cx="24.154" cy="12.897" r="3.636" fill="#fff"/>
+    <rect x="58.362" y="6.832" width="17.807" height="2.3" rx="1.15" fill="#fff"/>
+    <rect x="58.362" y="11.746" width="17.807" height="2.3" rx="1.15" fill="#fff"/>
+    <rect x="58.362" y="16.659" width="17.807" height="2.301" rx="1.151" fill="#fff"/>
+  </g>
+</svg>

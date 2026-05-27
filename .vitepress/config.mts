@@ -6,6 +6,11 @@ export default defineConfig({
   description: "FDUSC",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: {
+      src: '/fdusc-icon.svg',
+      alt: 'FDUSC logo'
+    },
+
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
