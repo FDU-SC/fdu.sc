@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  cleanUrls: true,
   title: "Fudan Supercomputing Team",
   description: "FDUSC",
   head: [
@@ -17,15 +18,18 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '战队成员', link: '/team-members' },
+      { text: '团队成就', link: '/team-achivements' },
+      { text: '联系我们', link: '/contact-us' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Team',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '战队成员', link: '/team-members' },
+          { text: '团队成就', link: '/team-achivements' },
+          { text: '联系我们', link: '/contact-us' }
         ]
       }
     ],
